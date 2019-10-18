@@ -14,6 +14,18 @@
 │   │   │   ├── pricing.css
 │   │   │   ├── style.css
 │   │   │   └── style.css.map
+│   │   ├── fonts
+│   │   │   ├── bootstrap
+│   │   │   │   ├── glyphicons-halflings-regular.eot
+│   │   │   │   ├── glyphicons-halflings-regular.svg
+│   │   │   │   ├── glyphicons-halflings-regular.ttf
+│   │   │   │   ├── glyphicons-halflings-regular.woff
+│   │   │   │   └── glyphicons-halflings-regular.woff2
+│   │   │   └── icomoon
+│   │   │       ├── icomoon.eot
+│   │   │       ├── icomoon.svg
+│   │   │       ├── icomoon.ttf
+│   │   │       └── icomoon.woff
 │   │   └── js
 │   │       ├── bootstrap.min.js
 │   │       ├── google_map.js
@@ -31,7 +43,33 @@
 │   │       ├── respond.min.js
 │   │       └── simplyCountdown.js
 │   ├── images
-│   │   └── logo.png
+│   │   ├── b1.jpg
+│   │   ├── b2.jpg
+│   │   ├── b3.jpg
+│   │   ├── img_bg_1.jpg
+│   │   ├── img_bg_2.jpg
+│   │   ├── img_bg_3.jpg
+│   │   ├── img_bg_4.jpg
+│   │   ├── loader.gif
+│   │   ├── loc.png
+│   │   ├── logo.png
+│   │   ├── person1.jpg
+│   │   ├── person2.jpg
+│   │   ├── person3.jpg
+│   │   ├── project-1.jpg
+│   │   ├── project-2.jpg
+│   │   ├── project-3.jpg
+│   │   ├── project-4.jpg
+│   │   ├── project-5.jpg
+│   │   ├── project-6.jpg
+│   │   ├── project-7.jpg
+│   │   ├── project-8.jpg
+│   │   ├── project-9.jpg
+│   │   ├── school.jpg
+│   │   ├── staff-1.jpg
+│   │   ├── staff-2.jpg
+│   │   ├── staff-3.jpg
+│   │   └── work_1.png
 │   └── scss
 │       ├── bootstrap
 │       │   ├── _alerts.scss
@@ -115,7 +153,8 @@
     ├── index.ejs
     ├── partials
     │   ├── footer.ejs
-    │   └── header.ejs
+    │   ├── header.ejs
+    │   └── navbar.ejs
     └── teacher.ejs
 
-10 directories, 108 files
+13 directories, 144 files
