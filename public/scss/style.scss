@@ -8,7 +8,7 @@ $grid-gutter-width: 40px !default;
 $border-radius-base:  4px !default;
 $padding-base-vertical: 14px !default;
 
-$brand-primary: #2D6CDF !default;
+$brand-primary: rgb(223, 131, 45) !default;
 $brand-secondary: #09C6AB !default;
 
 $brand-white: #fff;
@@ -931,6 +931,13 @@ h1, h2, h3, h4, h5, h6, figure {
 		}
 	}
 
+}
+.photo{
+	@media screen and (min-width: $screen-md) {
+		height:45rem;
+		background-size: cover;
+
+	}
 }
 .blog{
 	margin-bottom: 30px;
